@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class TowerAttacks : MonoBehaviour
@@ -29,7 +30,7 @@ public class TowerAttacks : MonoBehaviour
         {
             return;
         }
-        Transform target = hit.collider.gameObject.transform;
+        Transform target = hit.transform;
         behavior.fireProjectile(target);
     }
     private void FireProjectile()

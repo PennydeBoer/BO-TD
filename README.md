@@ -17,12 +17,9 @@ Je moet tekenen om sterker te schieten. (Als dit haalbaar is)/Inputs om andere s
 ## 3. Schets van je level en UI
 Maak een schets op papier of digitaal en voeg deze afbeelding toe aan je repository. Voeg in deze sectie de afbeelding in.
 
-Je schets bevat minimaal:
-1. Het pad waar de vijanden over lopen met beginpunt en eindpunt.
-2. De plaatsen waar torens gebouwd kunnen worden.
-3. De locatie van de basis of goal die verdedigd moet worden.
-4. De UI onderdelen geld, wave teller, levens, startknop en pauzeknop.
-5. Een legenda met symbolen of kleuren voor torens, vijanden, pad, basis en UI.
+![map](Art/Art/20250910_101319.jpg)
+![pause](Art/Art/20250910_101325.jpg)
+![titel](Art/Art/20250910_101345.jpg)
 
 ## 4. Torens
 Toren 1 Wizard tower, ongeveer 1x de toren base, Basis dmg: 15 dmg; lightning spell: 5 dmg aan 3 enemies; snow spell: 7.5 dmg en slowt enemies, Basis toren: doet niet veel.

@@ -224,8 +224,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   boxSize: {x: 2, y: 2}
-  projectile: {fileID: 2345946461936854220, guid: 84e0bbef434c30145bf919063a340861, type: 3}
-  castTime: 0
+  fireProjectile: {fileID: 2345946461936854220, guid: 84e0bbef434c30145bf919063a340861, type: 3}
+  castTime: 1
 --- !u!1 &126395601
 GameObject:
   m_ObjectHideFlags: 0
@@ -594,7 +594,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   boxSize: {x: 3, y: 3}
-  projectile: {fileID: 0}
+  fireProjectile: {fileID: 0}
   castTime: 0
 --- !u!1001 &1015502612057091199
 PrefabInstance:
